@@ -15,8 +15,8 @@ Toute copie, modification, diffusion ou utilisation totale ou partielle de ces f
 
 ## 📩 Contact
 Pour toute demande liée aux assets graphiques :
-- **Discord** : Votre Tag
-- **Mail Pro** : Votre adresse mail
+- **Discord** : [Lien Officiel](https://discord.gg/ayUe7zujzc)
+- **Mail Pro** : wizerfafivem@protonmail.com
 
 ---
 **WizerFA — Identité graphique protégée**
